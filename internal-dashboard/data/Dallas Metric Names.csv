@@ -1,0 +1,104 @@
+FieldName,Order,Description,Category,acsNames,type
+GEOID,0,GEOID,Categorization,GEOID,
+NAME,0,NAME,Categorization,NAME,
+geometry,0,geometry,Categorization,geometry,
+YEAR,0,YEAR,Categorization,YEAR,
+GEOGRAPHY,0,GEOGRAPHY,Categorization,GEOGRAPHY,
+SURVEY,0,SURVEY,Categorization,SURVEY,
+pop_u18E,1,Total Children,Children,pop_u18,Estimate
+pop_u18M,1,Total Children,Children,pop_u18,MoE
+asn_u18E,2,Asian Children,Children,asn_u18,Estimate
+asn_u18M,2,Asian Children,Children,asn_u18,MoE
+asn_u18P,2,Asian Children,Children,asn_u18,Percent
+blk_u18E,3,Black Children,Children,blk_u18,Estimate
+blk_u18M,3,Black Children,Children,blk_u18,MoE
+blk_u18P,3,Black Children,Children,blk_u18,Percent
+his_u18E,4,Hispanic Children,Children,his_u18,Estimate
+his_u18M,4,Hispanic Children,Children,his_u18,MoE
+his_u18P,4,Hispanic Children,Children,his_u18,Percent
+wht_u18E,5,White (Non-His) Children,Children,wht_u18,Estimate
+wht_u18M,5,White (Non-His) Children,Children,wht_u18,MoE
+wht_u18P,5,White (Non-His) Children,Children,wht_u18,Percent
+pop_u6E,6,Young Children (Under 6),Children,pop_u6,Estimate
+pop_u6M,6,Young Children (Under 6),Children,pop_u6,MoE
+pop_u6P,6,Young Children (Under 6),Children,pop_u6,Percent
+pop_6t11E,7,School-Aged Children (6 to 11),Children,pop_6t11,Estimate
+pop_6t11M,7,School-Aged Children (6 to 11),Children,pop_6t11,MoE
+pop_6t11P,7,School-Aged Children (6 to 11),Children,pop_6t11,Percent
+pop_12t17E,8,Teenagers (12 to 17),Children,pop_12t17,Estimate
+pop_12t17M,8,Teenagers (12 to 17),Children,pop_12t17,MoE
+pop_12t17P,8,Teenagers (12 to 17),Children,pop_12t17,Percent
+tot_popE,9,Total Population,Demographics,tot_pop,Estimate
+tot_popM,9,Total Population,Demographics,tot_pop,MoE
+asn_popE,10,Asian Population,Demographics,asn_pop,Estimate
+asn_popM,10,Asian Population,Demographics,asn_pop,MoE
+asn_popP,10,Asian Population,Demographics,asn_pop,Percent
+blk_popE,11,Black Population,Demographics,blk_pop,Estimate
+blk_popM,11,Black Population,Demographics,blk_pop,MoE
+blk_popP,11,Black Population,Demographics,blk_pop,Percent
+his_popE,12,Hispanic Population,Demographics,his_pop,Estimate
+his_popM,12,Hispanic Population,Demographics,his_pop,MoE
+his_popP,12,Hispanic Population,Demographics,his_pop,Percent
+wht_popE,13,White (Non-His) Population,Demographics,wht_pop,Estimate
+wht_popM,13,White (Non-His) Population,Demographics,wht_pop,MoE
+wht_popP,13,White (Non-His) Population,Demographics,wht_pop,Percent
+scl_popE,14,Adults (Over 25),Education,scl_pop,Estimate
+scl_popM,14,Adults (Over 25),Education,scl_pop,MoE
+hs_gradE,15,High School Degree (Over 25),Education,hs_grad,Estimate
+hs_gradM,15,High School Degree (Over 25),Education,hs_grad,MoE
+hs_gradP,15,High School Degree (Over 25),Education,hs_grad,Percent
+ba_gradE,16,Bachelors Degree (Over 25),Education,ba_grad,Estimate
+ba_gradM,16,Bachelors Degree (Over 25),Education,ba_grad,MoE
+ba_gradP,16,Bachelors Degree (Over 25),Education,ba_grad,Percent
+lbr_popE,17,Population in Labor Force,Employment,lbr_pop,Estimate
+lbr_popM,17,Population in Labor Force,Employment,lbr_pop,MoE
+unempE,18,In Labor Force (Unemployed),Employment,unemp,Estimate
+unempM,18,In Labor Force (Unemployed),Employment,unemp,MoE
+unempP,18,In Labor Force (Unemployed),Employment,unemp,Percent
+lbr_o16E,19,Labor Force Eligible (Over 16),Employment,lbr_o16,Estimate
+lbr_o16M,19,Labor Force Eligible (Over 16),Employment,lbr_o16,MoE
+nolbrE,20,Not in Labor Force,Employment,nolbr,Estimate
+nolbrM,20,Not in Labor Force,Employment,nolbr,MoE
+nolbrP,20,Not in Labor Force,Employment,nolbr,Percent
+fam_u18E,21,Familes with Children,Families,fam_u18,Estimate
+fam_u18M,21,Familes with Children,Families,fam_u18,MoE
+fam_nmryE,22,Non-Traditional Families with Children,Families,fam_nmry,Estimate
+fam_nmryM,22,Non-Traditional Families with Children,Families,fam_nmry,MoE
+fam_nmryP,22,Non-Traditional Families with Children,Families,fam_nmry,Percent
+mhiE,23,Median Household Income,Households,mhi,Estimate
+mhiM,23,Median Household Income,Households,mhi,MoE
+thhE,24,Total Households,Households,thh,Estimate
+thhM,24,Total Households,Households,thh,MoE
+oohhE,25,Owner-Occupied Households,Households,oohh,Estimate
+oohhM,25,Owner-Occupied Households,Households,oohh,MoE
+oohhP,25,Owner-Occupied Households,Households,oohh,Percent
+rohhE,26,Renter-Occupied Households,Households,rohh,Estimate
+rohhM,26,Renter-Occupied Households,Households,rohh,MoE
+rohhP,26,Renter-Occupied Households,Households,rohh,Percent
+lan_engE,27,Language Spoken at Home (Only English),Households,lan_eng,Estimate
+lan_engM,27,Language Spoken at Home (Only English),Households,lan_eng,MoE
+lan_engP,27,Language Spoken at Home (Only English),Households,lan_eng,Percent
+pop_bpE,28,Population Below Poverty,Poverty,pop_bp,Estimate
+pop_bpM,28,Population Below Poverty,Poverty,pop_bp,MoE
+pop_bpP,28,Population Below Poverty,Poverty,pop_bp,Percent
+bp_u18E,29,Children Below Poverty,Poverty,bp_u18,Estimate
+bp_u18M,29,Children Below Poverty,Poverty,bp_u18,MoE
+bp_u18P,29,Children Below Poverty,Poverty,bp_u18,Percent
+asnbp_u18E,30,Asian Children Below Poverty,Poverty,asnbp_u18,Estimate
+asnbp_u18M,30,Asian Children Below Poverty,Poverty,asnbp_u18,MoE
+asnbp_u18P,30,Asian Children Below Poverty,Poverty,asnbp_u18,Percent
+blkbp_u18E,31,Black Children Below Poverty,Poverty,blkbp_u18,Estimate
+blkbp_u18M,31,Black Children Below Poverty,Poverty,blkbp_u18,MoE
+blkbp_u18P,31,Black Children Below Poverty,Poverty,blkbp_u18,Percent
+hisbp_u18E,32,Hispanic Children Below Poverty,Poverty,hisbp_u18,Estimate
+hisbp_u18M,32,Hispanic Children Below Poverty,Poverty,hisbp_u18,MoE
+hisbp_u18P,32,Hispanic Children Below Poverty,Poverty,hisbp_u18,Percent
+whtbp_u18E,33,White (Non-His) Children Below Poverty,Poverty,whtbp_u18,Estimate
+whtbp_u18M,33,White (Non-His) Children Below Poverty,Poverty,whtbp_u18,MoE
+whtbp_u18P,33,White (Non-His) Children Below Poverty,Poverty,whtbp_u18,Percent
+wom_repE,34,Women of Reproductive Age,Women,wom_rep,Estimate
+wom_repM,34,Women of Reproductive Age,Women,wom_rep,MoE
+wom_birE,35,Recent Births by Women,Women,wom_bir,Estimate
+wom_birM,35,Recent Births by Women,Women,wom_bir,MoE
+wom_birP,35,Recent Births by Women,Women,wom_bir,Percent
+teen_girlE,36,Teen Girls (15 to 19),Women,teen_girl,Estimate
